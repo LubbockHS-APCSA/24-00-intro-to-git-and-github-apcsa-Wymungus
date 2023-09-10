@@ -1,0 +1,11 @@
+#A First-level heading
+##A second-level heading
+###A third-level heading
+~~ strikethrough
+
+One * or  *does this*
+Two * or  **does this**
+
+<sub> for subscript
+
+*** to bold all
